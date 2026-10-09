@@ -152,6 +152,6 @@ routes/web.php
 ```
 
 ## ✍️ Autor
-**TU NOMBRE** — [GitHub](https://github.com/TU_USUARIO)
+**Kimberlly Ramos** — [GitHub](https://github.com/kim14ale/crud-login-mvc)
 
 Proyecto académico — Desarrollo de aplicaciones con patrón MVC.
